@@ -1,0 +1,7 @@
+[
+    {
+      "Description": "TraceLabs OSINT OVA",
+      "Format": "ova",
+      "Url": "s3://my-import-bucket/vms/my-server-vm.ova"
+    }
+]
